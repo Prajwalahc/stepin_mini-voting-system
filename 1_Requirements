@@ -29,3 +29,44 @@ Restriction: A person should vote only once ,if the voted voter id is entered er
 one file for each participant will be displayed containing his details..
 
 
+
+SWOT ANALTSIS
+Strength : *resourece availability
+           *skill level
+           *research
+           *system development
+           *continuous integration
+WEAKNESS : *Time scale deadlines
+           *processes
+OPPORTUNITIES : *Current system
+                *skill development
+THREATS : *obstacles to be faced
+          *competitive intensions
+          *emphasis on limited schemes
+          
+          
+ 4 W's and 1 H
+Who
+Anyone who are interested to revise there basics concepts in C can play the game to relax.
+
+What
+This project is concerned about developing a game which makes us to think basics to win the game.
+
+When
+The students are encouraged to think more about basics. Which can help them in learning C language for there future.
+
+Why
+As this project uses C programming language it can be easy to understand the logic.
+
+How
+Implemented using Functions , loops and other functionalities of C.
+
+Basic requirements that very essential are:
+Operating System: Windows, Linux or any other operating system
+
+Front end tool: Visual Studio Code
+
+Programming language used: C
+
+gcc compiler with a good system.         
+          
